@@ -5,7 +5,7 @@
 > 
 > Here's some example code:
 > 
->     return shell_exec("echo $input | $markdown_script");
+> 	return shell_exec("echo $input | $markdown_script");
 
 *   Red
 *   Green
@@ -34,3 +34,8 @@ _single underscores_
 **double asterisks**
 
 __double underscores__
+
+
+This is a normal paragraph:
+
+	This is a code block.
